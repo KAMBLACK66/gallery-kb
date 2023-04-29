@@ -82,7 +82,7 @@ body, html {
 	font-weight: 900;
 	display: inline-block;
 	background: rgb(25,251,155);
-background: linear-gradient(86deg, rgba(25,251,155,1) 0%, rgba(140,1,250,1) 59%);
+	background: linear-gradient(29deg, rgba(25,251,155,1) 0%, rgba(140,1,250,1) 83%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
